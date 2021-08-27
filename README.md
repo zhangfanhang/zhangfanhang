@@ -32,11 +32,11 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 
-### project
+### Project
 - [vue2+koa2+mongodb的简易留言板](https://github.com/zhangfanhang/koa2-message-board)
 - [京东到家电商项目](https://github.com/zhangfanhang/jingdong)
 
-### aboutme
+### About Me
 - [blog](https://zfhblog.top)
 
 <p align="left">
