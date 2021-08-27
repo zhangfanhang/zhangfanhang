@@ -22,9 +22,10 @@
 
 ### 关于我
 - [技术笔记](https://zfhblog.top)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfanhang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > ***be hungry,be foolish.***
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfanhang)](https://github.com/anuraghazra/github-readme-stats)
