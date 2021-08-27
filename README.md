@@ -5,7 +5,7 @@
 - 🌱 Currently studying in Hanzhong, China.
 - ⚡ my email:zfh88888@foxmail.com
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 <!-- [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux) -->
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
@@ -32,12 +32,12 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
 
-### 开源项目
+### project
 - [vue2+koa2+mongodb的简易留言板](https://github.com/zhangfanhang/koa2-message-board)
 - [京东到家电商项目](https://github.com/zhangfanhang/jingdong)
 
-### 关于我
-- [技术笔记](https://zfhblog.top)
+### aboutme
+- [blog](https://zfhblog.top)
 
 <p align="left">
 <img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zhangfanhang&show_icons=true&include_all_commits=true">
