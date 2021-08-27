@@ -23,9 +23,11 @@
 ### 关于我
 - [技术笔记](https://zfhblog.top)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhangfanhang)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zhangfanhang&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfanhang">
+</p>
 
 
 > ***be hungry,be foolish.***
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhangfanhang)](https://github.com/anuraghazra/github-readme-stats)
+c
